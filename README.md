@@ -202,7 +202,9 @@ These 10 are enough to give you the essence of algorithms, why they are designed
 3. Implement a code formatter for C language. [3]
 
 [1] https://towardsdatascience.com/spelling-correction-how-to-make-an-accurate-and-fast-corrector-dc6d0bcbba5f
+
 [2] https://onestepcode.com/brainfuck-compiler-c/
+
 [3] https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/
 
 ---
