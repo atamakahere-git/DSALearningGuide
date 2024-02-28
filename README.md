@@ -211,4 +211,6 @@ These 10 are enough to give you the essence of algorithms, why they are designed
 
 This marks the end of your journey, or I must say, a new journey in computer science.
 
+Found a typo or have suggestions? Send a PR!
+
 ----
